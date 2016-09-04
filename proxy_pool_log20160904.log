@@ -1,0 +1,790 @@
+2016-09-04 16:10:08 - DEBUG - Collector Thread Start
+2016-09-04 16:10:08 - DEBUG - Listener Thread Start
+2016-09-04 16:10:11 - DEBUG - Filter Thread Start
+2016-09-04 16:10:11 - DEBUG - proxy: http://118.180.15.152:8102 start to be filter
+2016-09-04 16:10:12 - DEBUG - proxy: http://118.180.15.152:8102 is variable proxy
+2016-09-04 16:10:12 - DEBUG - proxy: http://139.196.108.68:80 start to be filter
+2016-09-04 16:10:12 - DEBUG - proxy: http://139.196.108.68:80 is variable proxy
+2016-09-04 16:10:12 - DEBUG - proxy: http://218.244.149.184:8888 start to be filter
+2016-09-04 16:10:19 - ERROR - proxy: http://218.244.149.184:8888 is avariable proxy
+2016-09-04 16:10:19 - DEBUG - proxy: http://60.21.209.114:8080 start to be filter
+2016-09-04 16:10:20 - DEBUG - proxy: http://60.21.209.114:8080 is variable proxy
+2016-09-04 16:10:20 - DEBUG - proxy: http://180.103.131.65:808 start to be filter
+2016-09-04 16:10:21 - DEBUG - proxy: http://180.103.131.65:808 is variable proxy
+2016-09-04 16:10:21 - DEBUG - proxy: http://182.91.120.206:8118 start to be filter
+2016-09-04 16:10:21 - ERROR - proxy: http://182.91.120.206:8118 is avariable proxy
+2016-09-04 16:10:21 - DEBUG - proxy: http://125.42.247.215:8118 start to be filter
+2016-09-04 16:10:23 - ERROR - proxy: http://125.42.247.215:8118 is avariable proxy
+2016-09-04 16:10:23 - DEBUG - proxy: http://139.196.140.9:80 start to be filter
+2016-09-04 16:10:30 - ERROR - proxy: http://139.196.140.9:80 is avariable proxy
+2016-09-04 16:10:30 - DEBUG - proxy: http://1.25.201.12:80 start to be filter
+2016-09-04 16:10:30 - DEBUG - proxy: http://1.25.201.12:80 is variable proxy
+2016-09-04 16:10:30 - DEBUG - proxy: http://122.96.59.106:80 start to be filter
+2016-09-04 16:10:35 - DEBUG - proxy: http://122.96.59.106:80 is variable proxy
+2016-09-04 16:10:35 - DEBUG - proxy: http://119.29.82.158:8118 start to be filter
+2016-09-04 16:10:35 - ERROR - proxy: http://119.29.82.158:8118 is avariable proxy
+2016-09-04 16:10:35 - DEBUG - proxy: http://115.160.137.178:8088 start to be filter
+2016-09-04 16:10:36 - DEBUG - proxy: http://115.160.137.178:8088 is variable proxy
+2016-09-04 16:10:36 - DEBUG - proxy: http://36.7.172.18:82 start to be filter
+2016-09-04 16:10:37 - DEBUG - proxy: http://36.7.172.18:82 is variable proxy
+2016-09-04 16:10:37 - DEBUG - proxy: http://112.192.22.252:8118 start to be filter
+2016-09-04 16:10:42 - DEBUG - Collector Thread Stop
+2016-09-04 16:10:42 - ERROR - proxy: http://112.192.22.252:8118 is avariable proxy
+2016-09-04 16:10:42 - DEBUG - proxy: http://120.25.105.45:81 start to be filter
+2016-09-04 16:10:43 - DEBUG - Listener Thread Stop
+2016-09-04 16:10:43 - DEBUG - proxy: http://120.25.105.45:81 is variable proxy
+2016-09-04 16:10:43 - DEBUG - Filter Thread Stop
+2016-09-04 16:12:35 - DEBUG - Collector Thread Start
+2016-09-04 16:12:35 - DEBUG - Listener Thread Start
+2016-09-04 16:12:36 - DEBUG - Filter Thread Start
+2016-09-04 16:12:36 - DEBUG - proxy: http://106.119.96.117:8118 start to be filter
+2016-09-04 16:12:38 - ERROR - proxy: http://106.119.96.117:8118 is avariable proxy
+2016-09-04 16:12:38 - DEBUG - proxy: http://118.124.51.94:808 start to be filter
+2016-09-04 16:12:43 - ERROR - proxy: http://118.124.51.94:808 is avariable proxy
+2016-09-04 16:12:43 - DEBUG - proxy: http://116.30.160.210:8118 start to be filter
+2016-09-04 16:12:48 - ERROR - proxy: http://116.30.160.210:8118 is avariable proxy
+2016-09-04 16:12:48 - DEBUG - proxy: http://119.29.104.69:8118 start to be filter
+2016-09-04 16:12:49 - DEBUG - proxy: http://119.29.104.69:8118 is variable proxy
+2016-09-04 16:12:49 - DEBUG - proxy: http://122.96.59.104:80 start to be filter
+2016-09-04 16:12:54 - ERROR - proxy: http://122.96.59.104:80 is avariable proxy
+2016-09-04 16:12:54 - DEBUG - proxy: http://118.180.15.152:8102 start to be filter
+2016-09-04 16:12:54 - DEBUG - proxy: http://118.180.15.152:8102 is variable proxy
+2016-09-04 16:12:54 - DEBUG - proxy: http://139.196.108.68:80 start to be filter
+2016-09-04 16:12:54 - DEBUG - proxy: http://139.196.108.68:80 is variable proxy
+2016-09-04 16:12:54 - DEBUG - proxy: http://218.244.149.184:8888 start to be filter
+2016-09-04 16:12:57 - DEBUG - proxy: http://218.244.149.184:8888 is variable proxy
+2016-09-04 16:12:57 - DEBUG - proxy: http://60.21.209.114:8080 start to be filter
+2016-09-04 16:12:57 - DEBUG - proxy: http://60.21.209.114:8080 is variable proxy
+2016-09-04 16:12:57 - DEBUG - proxy: http://180.103.131.65:808 start to be filter
+2016-09-04 16:12:58 - DEBUG - proxy: http://180.103.131.65:808 is variable proxy
+2016-09-04 16:12:58 - DEBUG - proxy: http://182.91.120.206:8118 start to be filter
+2016-09-04 16:12:59 - ERROR - proxy: http://182.91.120.206:8118 is avariable proxy
+2016-09-04 16:12:59 - DEBUG - proxy: http://125.42.247.215:8118 start to be filter
+2016-09-04 16:12:59 - DEBUG - proxy: http://125.42.247.215:8118 is variable proxy
+2016-09-04 16:12:59 - DEBUG - proxy: http://139.196.140.9:80 start to be filter
+2016-09-04 16:13:06 - DEBUG - Collector Thread Stop
+2016-09-04 16:13:07 - DEBUG - Listener Thread Stop
+2016-09-04 16:13:08 - ERROR - proxy: http://139.196.140.9:80 is avariable proxy
+2016-09-04 16:13:08 - DEBUG - Filter Thread Stop
+2016-09-04 16:15:37 - DEBUG - Collector Thread Start
+2016-09-04 16:15:37 - DEBUG - Listener Thread Start
+2016-09-04 16:15:39 - DEBUG - Filter Thread Start
+2016-09-04 16:15:39 - DEBUG - proxy: http://115.160.137.178:8088 start to be filter
+2016-09-04 16:15:42 - DEBUG - proxy: http://115.160.137.178:8088 is variable proxy
+2016-09-04 16:15:42 - DEBUG - proxy: http://116.30.160.210:8118 start to be filter
+2016-09-04 16:15:44 - DEBUG - proxy: http://116.30.160.210:8118 is variable proxy
+2016-09-04 16:15:44 - DEBUG - proxy: http://39.67.146.180:8118 start to be filter
+2016-09-04 16:15:49 - ERROR - proxy: http://39.67.146.180:8118 is avariable proxy
+2016-09-04 16:15:49 - DEBUG - proxy: http://106.119.96.117:8118 start to be filter
+2016-09-04 16:15:49 - ERROR - proxy: http://106.119.96.117:8118 is avariable proxy
+2016-09-04 16:15:49 - DEBUG - proxy: http://118.124.51.94:808 start to be filter
+2016-09-04 16:15:50 - DEBUG - proxy: http://118.124.51.94:808 is variable proxy
+2016-09-04 16:15:50 - DEBUG - proxy: http://122.228.179.178:80 start to be filter
+2016-09-04 16:15:56 - ERROR - proxy: http://122.228.179.178:80 is avariable proxy
+2016-09-04 16:15:56 - DEBUG - proxy: http://118.200.71.231:8080 start to be filter
+2016-09-04 16:15:57 - ERROR - proxy: http://118.200.71.231:8080 is avariable proxy
+2016-09-04 16:15:57 - DEBUG - proxy: http://113.138.42.21:8118 start to be filter
+2016-09-04 16:15:57 - ERROR - proxy: http://113.138.42.21:8118 is avariable proxy
+2016-09-04 16:15:57 - DEBUG - proxy: http://119.29.104.69:8118 start to be filter
+2016-09-04 16:15:57 - ERROR - proxy: http://119.29.104.69:8118 is avariable proxy
+2016-09-04 16:15:57 - DEBUG - proxy: http://122.96.59.104:80 start to be filter
+2016-09-04 16:15:58 - DEBUG - proxy: http://122.96.59.104:80 is variable proxy
+2016-09-04 16:15:58 - DEBUG - proxy: http://118.180.15.152:8102 start to be filter
+2016-09-04 16:16:00 - DEBUG - proxy: http://118.180.15.152:8102 is variable proxy
+2016-09-04 16:16:00 - DEBUG - proxy: http://139.196.108.68:80 start to be filter
+2016-09-04 16:16:00 - DEBUG - proxy: http://139.196.108.68:80 is variable proxy
+2016-09-04 16:16:00 - DEBUG - proxy: http://218.244.149.184:8888 start to be filter
+2016-09-04 16:16:04 - DEBUG - proxy: http://218.244.149.184:8888 is variable proxy
+2016-09-04 16:16:04 - DEBUG - proxy: http://60.21.209.114:8080 start to be filter
+2016-09-04 16:16:05 - DEBUG - proxy: http://60.21.209.114:8080 is variable proxy
+2016-09-04 16:16:05 - DEBUG - proxy: http://180.103.131.65:808 start to be filter
+2016-09-04 16:16:10 - ERROR - proxy: http://180.103.131.65:808 is avariable proxy
+2016-09-04 16:16:10 - DEBUG - proxy: http://182.91.120.206:8118 start to be filter
+2016-09-04 16:16:10 - ERROR - proxy: http://182.91.120.206:8118 is avariable proxy
+2016-09-04 16:16:10 - DEBUG - proxy: http://125.42.247.215:8118 start to be filter
+2016-09-04 16:16:12 - DEBUG - proxy: http://125.42.247.215:8118 is variable proxy
+2016-09-04 16:16:12 - DEBUG - proxy: http://139.196.140.9:80 start to be filter
+2016-09-04 16:16:21 - ERROR - proxy: http://139.196.140.9:80 is avariable proxy
+2016-09-04 16:16:21 - DEBUG - proxy: http://1.25.201.12:80 start to be filter
+2016-09-04 16:16:21 - DEBUG - proxy: http://1.25.201.12:80 is variable proxy
+2016-09-04 16:16:21 - DEBUG - proxy: http://122.96.59.106:80 start to be filter
+2016-09-04 16:16:28 - ERROR - proxy: http://122.96.59.106:80 is avariable proxy
+2016-09-04 16:16:28 - DEBUG - proxy: http://119.29.82.158:8118 start to be filter
+2016-09-04 16:16:29 - ERROR - proxy: http://119.29.82.158:8118 is avariable proxy
+2016-09-04 16:16:29 - DEBUG - proxy: http://36.7.172.18:82 start to be filter
+2016-09-04 16:16:30 - DEBUG - proxy: http://36.7.172.18:82 is variable proxy
+2016-09-04 16:16:30 - DEBUG - proxy: http://112.192.22.252:8118 start to be filter
+2016-09-04 16:16:33 - DEBUG - proxy: http://112.192.22.252:8118 is variable proxy
+2016-09-04 16:16:34 - DEBUG - proxy: http://120.25.105.45:81 start to be filter
+2016-09-04 16:16:40 - ERROR - proxy: http://120.25.105.45:81 is avariable proxy
+2016-09-04 16:16:40 - DEBUG - proxy: http://218.57.79.136:8118 start to be filter
+2016-09-04 16:16:42 - DEBUG - proxy: http://218.57.79.136:8118 is variable proxy
+2016-09-04 16:16:42 - DEBUG - proxy: http://119.137.86.240:8118 start to be filter
+2016-09-04 16:16:42 - ERROR - proxy: http://119.137.86.240:8118 is avariable proxy
+2016-09-04 16:16:42 - DEBUG - proxy: http://222.76.124.133:9000 start to be filter
+2016-09-04 16:16:47 - ERROR - proxy: http://222.76.124.133:9000 is avariable proxy
+2016-09-04 16:16:47 - DEBUG - proxy: http://183.131.76.27:8888 start to be filter
+2016-09-04 16:16:50 - DEBUG - proxy: http://183.131.76.27:8888 is variable proxy
+2016-09-04 16:16:50 - DEBUG - proxy: http://39.1.46.150:8080 start to be filter
+2016-09-04 16:16:55 - ERROR - proxy: http://39.1.46.150:8080 is avariable proxy
+2016-09-04 16:16:55 - DEBUG - proxy: http://111.155.116.237:8123 start to be filter
+2016-09-04 16:17:00 - ERROR - proxy: http://111.155.116.237:8123 is avariable proxy
+2016-09-04 16:17:00 - DEBUG - proxy: http://61.52.224.181:8118 start to be filter
+2016-09-04 16:17:05 - ERROR - proxy: http://61.52.224.181:8118 is avariable proxy
+2016-09-04 16:17:05 - DEBUG - proxy: http://119.119.10.95:8118 start to be filter
+2016-09-04 16:17:06 - ERROR - proxy: http://119.119.10.95:8118 is avariable proxy
+2016-09-04 16:17:06 - DEBUG - proxy: http://119.188.94.145:80 start to be filter
+2016-09-04 16:17:06 - DEBUG - proxy: http://119.188.94.145:80 is variable proxy
+2016-09-04 16:17:06 - DEBUG - proxy: http://175.21.228.12:8118 start to be filter
+2016-09-04 16:17:07 - DEBUG - proxy: http://175.21.228.12:8118 is variable proxy
+2016-09-04 16:17:07 - DEBUG - proxy: http://39.1.46.190:8080 start to be filter
+2016-09-04 16:17:12 - ERROR - proxy: http://39.1.46.190:8080 is avariable proxy
+2016-09-04 16:17:12 - DEBUG - proxy: http://182.88.81.75:8123 start to be filter
+2016-09-04 16:17:17 - ERROR - proxy: http://182.88.81.75:8123 is avariable proxy
+2016-09-04 16:17:17 - DEBUG - proxy: http://110.72.31.213:8123 start to be filter
+2016-09-04 16:17:19 - DEBUG - Collector Thread Stop
+2016-09-04 16:17:25 - ERROR - proxy: http://110.72.31.213:8123 is avariable proxy
+2016-09-04 16:17:25 - DEBUG - proxy: http://121.40.108.76:80 start to be filter
+2016-09-04 16:17:29 - DEBUG - proxy: http://121.40.108.76:80 is variable proxy
+2016-09-04 16:17:29 - DEBUG - proxy: http://125.124.132.76:3128 start to be filter
+2016-09-04 16:17:34 - DEBUG - Listener Thread Stop
+2016-09-04 16:17:34 - ERROR - proxy: http://125.124.132.76:3128 is avariable proxy
+2016-09-04 16:17:34 - DEBUG - Filter Thread Stop
+2016-09-04 16:17:41 - DEBUG - Collector Thread Start
+2016-09-04 16:17:41 - DEBUG - Listener Thread Start
+2016-09-04 16:17:42 - DEBUG - Filter Thread Start
+2016-09-04 16:17:42 - DEBUG - proxy: http://115.160.137.178:8088 start to be filter
+2016-09-04 16:17:44 - DEBUG - proxy: http://115.160.137.178:8088 is variable proxy
+2016-09-04 16:17:44 - DEBUG - proxy: http://116.30.160.210:8118 start to be filter
+2016-09-04 16:17:44 - ERROR - proxy: http://116.30.160.210:8118 is avariable proxy
+2016-09-04 16:17:44 - DEBUG - proxy: http://39.67.146.180:8118 start to be filter
+2016-09-04 16:17:46 - DEBUG - proxy: http://39.67.146.180:8118 is variable proxy
+2016-09-04 16:17:46 - DEBUG - proxy: http://106.119.96.117:8118 start to be filter
+2016-09-04 16:17:52 - ERROR - proxy: http://106.119.96.117:8118 is avariable proxy
+2016-09-04 16:17:52 - DEBUG - proxy: http://118.124.51.94:808 start to be filter
+2016-09-04 16:17:57 - DEBUG - proxy: http://118.124.51.94:808 is variable proxy
+2016-09-04 16:17:57 - DEBUG - proxy: http://122.228.179.178:80 start to be filter
+2016-09-04 16:18:02 - DEBUG - Collector Thread Stop
+2016-09-04 16:18:02 - ERROR - proxy: http://122.228.179.178:80 is avariable proxy
+2016-09-04 16:18:02 - DEBUG - proxy: http://118.200.71.231:8080 start to be filter
+2016-09-04 16:18:05 - ERROR - proxy: http://118.200.71.231:8080 is avariable proxy
+2016-09-04 16:18:05 - DEBUG - proxy: http://113.138.42.21:8118 start to be filter
+2016-09-04 16:18:06 - ERROR - proxy: http://113.138.42.21:8118 is avariable proxy
+2016-09-04 16:18:06 - DEBUG - proxy: http://119.29.104.69:8118 start to be filter
+2016-09-04 16:18:06 - ERROR - proxy: http://119.29.104.69:8118 is avariable proxy
+2016-09-04 16:18:06 - DEBUG - proxy: http://122.96.59.104:80 start to be filter
+2016-09-04 16:18:07 - DEBUG - proxy: http://122.96.59.104:80 is variable proxy
+2016-09-04 16:18:07 - DEBUG - proxy: http://118.180.15.152:8102 start to be filter
+2016-09-04 16:18:08 - DEBUG - proxy: http://118.180.15.152:8102 is variable proxy
+2016-09-04 16:18:08 - DEBUG - proxy: http://139.196.108.68:80 start to be filter
+2016-09-04 16:18:08 - DEBUG - proxy: http://139.196.108.68:80 is variable proxy
+2016-09-04 16:18:08 - DEBUG - proxy: http://218.244.149.184:8888 start to be filter
+2016-09-04 16:18:12 - DEBUG - proxy: http://218.244.149.184:8888 is variable proxy
+2016-09-04 16:18:12 - DEBUG - proxy: http://60.21.209.114:8080 start to be filter
+2016-09-04 16:18:13 - DEBUG - proxy: http://60.21.209.114:8080 is variable proxy
+2016-09-04 16:18:13 - DEBUG - proxy: http://180.103.131.65:808 start to be filter
+2016-09-04 16:18:14 - DEBUG - proxy: http://180.103.131.65:808 is variable proxy
+2016-09-04 16:18:14 - DEBUG - proxy: http://182.91.120.206:8118 start to be filter
+2016-09-04 16:18:14 - ERROR - proxy: http://182.91.120.206:8118 is avariable proxy
+2016-09-04 16:18:14 - DEBUG - proxy: http://125.42.247.215:8118 start to be filter
+2016-09-04 16:18:16 - ERROR - proxy: http://125.42.247.215:8118 is avariable proxy
+2016-09-04 16:18:16 - DEBUG - proxy: http://139.196.140.9:80 start to be filter
+2016-09-04 16:18:22 - ERROR - proxy: http://139.196.140.9:80 is avariable proxy
+2016-09-04 16:18:22 - DEBUG - proxy: http://1.25.201.12:80 start to be filter
+2016-09-04 16:18:22 - DEBUG - proxy: http://1.25.201.12:80 is variable proxy
+2016-09-04 16:18:22 - DEBUG - proxy: http://122.96.59.106:80 start to be filter
+2016-09-04 16:18:29 - ERROR - proxy: http://122.96.59.106:80 is avariable proxy
+2016-09-04 16:18:29 - DEBUG - proxy: http://119.29.82.158:8118 start to be filter
+2016-09-04 16:18:29 - ERROR - proxy: http://119.29.82.158:8118 is avariable proxy
+2016-09-04 16:18:29 - DEBUG - proxy: http://36.7.172.18:82 start to be filter
+2016-09-04 16:18:29 - DEBUG - proxy: http://36.7.172.18:82 is variable proxy
+2016-09-04 16:18:29 - DEBUG - proxy: http://112.192.22.252:8118 start to be filter
+2016-09-04 16:18:35 - DEBUG - proxy: http://112.192.22.252:8118 is variable proxy
+2016-09-04 16:18:35 - DEBUG - proxy: http://120.25.105.45:81 start to be filter
+2016-09-04 16:18:38 - DEBUG - proxy: http://120.25.105.45:81 is variable proxy
+2016-09-04 16:18:38 - DEBUG - proxy: http://218.57.79.136:8118 start to be filter
+2016-09-04 16:18:39 - DEBUG - proxy: http://218.57.79.136:8118 is variable proxy
+2016-09-04 16:18:39 - DEBUG - proxy: http://119.137.86.240:8118 start to be filter
+2016-09-04 16:18:40 - DEBUG - proxy: http://119.137.86.240:8118 is variable proxy
+2016-09-04 16:18:40 - DEBUG - proxy: http://222.76.124.133:9000 start to be filter
+2016-09-04 16:18:48 - ERROR - proxy: http://222.76.124.133:9000 is avariable proxy
+2016-09-04 16:18:48 - DEBUG - proxy: http://183.131.76.27:8888 start to be filter
+2016-09-04 16:18:55 - DEBUG - proxy: http://183.131.76.27:8888 is variable proxy
+2016-09-04 16:18:55 - DEBUG - proxy: http://39.1.46.150:8080 start to be filter
+2016-09-04 16:19:00 - ERROR - proxy: http://39.1.46.150:8080 is avariable proxy
+2016-09-04 16:19:00 - DEBUG - proxy: http://111.155.116.237:8123 start to be filter
+2016-09-04 16:19:05 - ERROR - proxy: http://111.155.116.237:8123 is avariable proxy
+2016-09-04 16:19:05 - DEBUG - proxy: http://61.52.224.181:8118 start to be filter
+2016-09-04 16:19:10 - ERROR - proxy: http://61.52.224.181:8118 is avariable proxy
+2016-09-04 16:19:10 - DEBUG - proxy: http://119.119.10.95:8118 start to be filter
+2016-09-04 16:19:16 - ERROR - proxy: http://119.119.10.95:8118 is avariable proxy
+2016-09-04 16:19:16 - DEBUG - proxy: http://119.188.94.145:80 start to be filter
+2016-09-04 16:19:16 - DEBUG - proxy: http://119.188.94.145:80 is variable proxy
+2016-09-04 16:19:16 - DEBUG - proxy: http://175.21.228.12:8118 start to be filter
+2016-09-04 16:19:20 - DEBUG - proxy: http://175.21.228.12:8118 is variable proxy
+2016-09-04 16:19:20 - DEBUG - proxy: http://39.1.46.190:8080 start to be filter
+2016-09-04 16:19:25 - ERROR - proxy: http://39.1.46.190:8080 is avariable proxy
+2016-09-04 16:19:25 - DEBUG - proxy: http://182.88.81.75:8123 start to be filter
+2016-09-04 16:19:30 - ERROR - proxy: http://182.88.81.75:8123 is avariable proxy
+2016-09-04 16:19:30 - DEBUG - proxy: http://110.72.31.213:8123 start to be filter
+2016-09-04 16:19:35 - ERROR - proxy: http://110.72.31.213:8123 is avariable proxy
+2016-09-04 16:19:35 - DEBUG - proxy: http://121.40.108.76:80 start to be filter
+2016-09-04 16:19:41 - DEBUG - proxy: http://121.40.108.76:80 is variable proxy
+2016-09-04 16:19:41 - DEBUG - proxy: http://125.124.132.76:3128 start to be filter
+2016-09-04 16:19:47 - ERROR - proxy: http://125.124.132.76:3128 is avariable proxy
+2016-09-04 16:19:47 - DEBUG - proxy: http://113.73.215.199:8118 start to be filter
+2016-09-04 16:19:50 - ERROR - proxy: http://113.73.215.199:8118 is avariable proxy
+2016-09-04 16:19:50 - DEBUG - proxy: http://171.38.131.225:8123 start to be filter
+2016-09-04 16:19:55 - ERROR - proxy: http://171.38.131.225:8123 is avariable proxy
+2016-09-04 16:19:55 - DEBUG - proxy: http://218.86.128.74:8118 start to be filter
+2016-09-04 16:20:00 - ERROR - proxy: http://218.86.128.74:8118 is avariable proxy
+2016-09-04 16:20:00 - DEBUG - proxy: http://220.166.240.128:8118 start to be filter
+2016-09-04 16:20:05 - ERROR - proxy: http://220.166.240.128:8118 is avariable proxy
+2016-09-04 16:20:05 - DEBUG - proxy: http://61.131.127.218:8118 start to be filter
+2016-09-04 16:20:05 - ERROR - proxy: http://61.131.127.218:8118 is avariable proxy
+2016-09-04 16:20:05 - DEBUG - proxy: http://222.162.50.116:8118 start to be filter
+2016-09-04 16:20:05 - DEBUG - proxy: http://222.162.50.116:8118 is variable proxy
+2016-09-04 16:20:05 - DEBUG - proxy: http://111.167.129.132:8118 start to be filter
+2016-09-04 16:20:06 - DEBUG - proxy: http://111.167.129.132:8118 is variable proxy
+2016-09-04 16:20:06 - DEBUG - proxy: http://175.18.88.246:8118 start to be filter
+2016-09-04 16:20:09 - DEBUG - proxy: http://175.18.88.246:8118 is variable proxy
+2016-09-04 16:20:09 - DEBUG - proxy: http://171.38.79.185:8123 start to be filter
+2016-09-04 16:20:14 - ERROR - proxy: http://171.38.79.185:8123 is avariable proxy
+2016-09-04 16:20:14 - DEBUG - proxy: http://110.73.40.53:8123 start to be filter
+2016-09-04 16:20:19 - ERROR - proxy: http://110.73.40.53:8123 is avariable proxy
+2016-09-04 16:20:19 - DEBUG - proxy: http://182.89.6.71:8123 start to be filter
+2016-09-04 16:20:24 - ERROR - proxy: http://182.89.6.71:8123 is avariable proxy
+2016-09-04 16:20:24 - DEBUG - proxy: http://171.39.73.200:8123 start to be filter
+2016-09-04 16:20:29 - ERROR - proxy: http://171.39.73.200:8123 is avariable proxy
+2016-09-04 16:20:29 - DEBUG - proxy: http://121.239.123.63:8998 start to be filter
+2016-09-04 16:20:29 - ERROR - proxy: http://121.239.123.63:8998 is avariable proxy
+2016-09-04 16:20:29 - DEBUG - proxy: http://111.155.116.228:8123 start to be filter
+2016-09-04 16:20:34 - ERROR - proxy: http://111.155.116.228:8123 is avariable proxy
+2016-09-04 16:20:34 - DEBUG - proxy: http://119.254.84.90:80 start to be filter
+2016-09-04 16:20:39 - ERROR - proxy: http://119.254.84.90:80 is avariable proxy
+2016-09-04 16:20:39 - DEBUG - proxy: http://183.34.144.184:8118 start to be filter
+2016-09-04 16:20:44 - ERROR - proxy: http://183.34.144.184:8118 is avariable proxy
+2016-09-04 16:20:44 - DEBUG - proxy: http://114.55.63.108:8000 start to be filter
+2016-09-04 16:20:49 - ERROR - proxy: http://114.55.63.108:8000 is avariable proxy
+2016-09-04 16:20:49 - DEBUG - proxy: http://106.116.240.140:80 start to be filter
+2016-09-04 16:20:49 - ERROR - proxy: http://106.116.240.140:80 is avariable proxy
+2016-09-04 16:20:49 - DEBUG - proxy: http://122.243.221.73:8998 start to be filter
+2016-09-04 16:20:54 - ERROR - proxy: http://122.243.221.73:8998 is avariable proxy
+2016-09-04 16:20:54 - DEBUG - proxy: http://118.181.128.181:8998 start to be filter
+2016-09-04 16:20:59 - ERROR - proxy: http://118.181.128.181:8998 is avariable proxy
+2016-09-04 16:20:59 - DEBUG - proxy: http://59.123.27.225:8080 start to be filter
+2016-09-04 16:21:04 - ERROR - proxy: http://59.123.27.225:8080 is avariable proxy
+2016-09-04 16:21:04 - DEBUG - proxy: http://110.73.29.140:8123 start to be filter
+2016-09-04 16:21:09 - ERROR - proxy: http://110.73.29.140:8123 is avariable proxy
+2016-09-04 16:21:09 - DEBUG - proxy: http://124.240.187.84:83 start to be filter
+2016-09-04 16:21:10 - DEBUG - proxy: http://124.240.187.84:83 is variable proxy
+2016-09-04 16:21:10 - DEBUG - proxy: http://113.92.251.91:8118 start to be filter
+2016-09-04 16:21:15 - ERROR - proxy: http://113.92.251.91:8118 is avariable proxy
+2016-09-04 16:21:15 - DEBUG - proxy: http://119.6.136.122:80 start to be filter
+2016-09-04 16:21:16 - DEBUG - proxy: http://119.6.136.122:80 is variable proxy
+2016-09-04 16:21:16 - DEBUG - proxy: http://110.248.252.178:8118 start to be filter
+2016-09-04 16:21:21 - ERROR - proxy: http://110.248.252.178:8118 is avariable proxy
+2016-09-04 16:21:21 - DEBUG - proxy: http://115.46.87.85:8123 start to be filter
+2016-09-04 16:21:26 - ERROR - proxy: http://115.46.87.85:8123 is avariable proxy
+2016-09-04 16:21:26 - DEBUG - proxy: http://110.72.24.245:8123 start to be filter
+2016-09-04 16:21:31 - ERROR - proxy: http://110.72.24.245:8123 is avariable proxy
+2016-09-04 16:21:31 - DEBUG - proxy: http://58.244.4.217:8118 start to be filter
+2016-09-04 16:21:36 - ERROR - proxy: http://58.244.4.217:8118 is avariable proxy
+2016-09-04 16:21:36 - DEBUG - proxy: http://121.31.51.28:8123 start to be filter
+2016-09-04 16:21:41 - ERROR - proxy: http://121.31.51.28:8123 is avariable proxy
+2016-09-04 16:21:41 - DEBUG - proxy: http://182.88.254.109:8123 start to be filter
+2016-09-04 16:21:49 - ERROR - proxy: http://182.88.254.109:8123 is avariable proxy
+2016-09-04 16:21:49 - DEBUG - proxy: http://39.1.47.171:8080 start to be filter
+2016-09-04 16:21:54 - ERROR - proxy: http://39.1.47.171:8080 is avariable proxy
+2016-09-04 16:21:54 - DEBUG - proxy: http://119.125.82.108:8118 start to be filter
+2016-09-04 16:21:54 - ERROR - proxy: http://119.125.82.108:8118 is avariable proxy
+2016-09-04 16:21:54 - DEBUG - proxy: http://221.7.238.71:8123 start to be filter
+2016-09-04 16:21:54 - ERROR - proxy: http://221.7.238.71:8123 is avariable proxy
+2016-09-04 16:21:54 - DEBUG - proxy: http://221.7.201.202:8123 start to be filter
+2016-09-04 16:21:59 - ERROR - proxy: http://221.7.201.202:8123 is avariable proxy
+2016-09-04 16:21:59 - DEBUG - proxy: http://221.7.175.83:8123 start to be filter
+2016-09-04 16:22:04 - ERROR - proxy: http://221.7.175.83:8123 is avariable proxy
+2016-09-04 16:22:04 - DEBUG - proxy: http://220.189.96.32:3128 start to be filter
+2016-09-04 16:22:04 - ERROR - proxy: http://220.189.96.32:3128 is avariable proxy
+2016-09-04 16:22:04 - DEBUG - proxy: http://112.248.187.173:8118 start to be filter
+2016-09-04 16:22:09 - ERROR - proxy: http://112.248.187.173:8118 is avariable proxy
+2016-09-04 16:22:09 - DEBUG - proxy: http://182.89.10.46:8123 start to be filter
+2016-09-04 16:22:14 - ERROR - proxy: http://182.89.10.46:8123 is avariable proxy
+2016-09-04 16:22:14 - DEBUG - proxy: http://58.209.73.166:8998 start to be filter
+2016-09-04 16:22:14 - ERROR - proxy: http://58.209.73.166:8998 is avariable proxy
+2016-09-04 16:22:14 - DEBUG - proxy: http://60.21.132.218:63000 start to be filter
+2016-09-04 16:22:15 - ERROR - proxy: http://60.21.132.218:63000 is avariable proxy
+2016-09-04 16:22:15 - DEBUG - proxy: http://182.88.229.170:8123 start to be filter
+2016-09-04 16:22:20 - ERROR - proxy: http://182.88.229.170:8123 is avariable proxy
+2016-09-04 16:22:20 - DEBUG - proxy: http://39.1.47.44:8080 start to be filter
+2016-09-04 16:22:25 - ERROR - proxy: http://39.1.47.44:8080 is avariable proxy
+2016-09-04 16:22:25 - DEBUG - proxy: http://121.201.24.248:8088 start to be filter
+2016-09-04 16:22:30 - ERROR - proxy: http://121.201.24.248:8088 is avariable proxy
+2016-09-04 16:22:30 - DEBUG - proxy: http://1.192.173.182:8118 start to be filter
+2016-09-04 16:22:35 - ERROR - proxy: http://1.192.173.182:8118 is avariable proxy
+2016-09-04 16:22:35 - DEBUG - proxy: http://122.189.1.98:8118 start to be filter
+2016-09-04 16:22:40 - ERROR - proxy: http://122.189.1.98:8118 is avariable proxy
+2016-09-04 16:22:40 - DEBUG - proxy: http://123.130.103.173:8118 start to be filter
+2016-09-04 16:22:45 - ERROR - proxy: http://123.130.103.173:8118 is avariable proxy
+2016-09-04 16:22:45 - DEBUG - proxy: http://125.65.27.196:8118 start to be filter
+2016-09-04 16:22:50 - ERROR - proxy: http://125.65.27.196:8118 is avariable proxy
+2016-09-04 16:22:50 - DEBUG - proxy: http://110.73.51.113:8123 start to be filter
+2016-09-04 16:22:55 - ERROR - proxy: http://110.73.51.113:8123 is avariable proxy
+2016-09-04 16:22:55 - DEBUG - proxy: http://180.104.133.248:8998 start to be filter
+2016-09-04 16:23:00 - ERROR - proxy: http://180.104.133.248:8998 is avariable proxy
+2016-09-04 16:23:00 - DEBUG - proxy: http://36.106.105.60:8118 start to be filter
+2016-09-04 16:23:05 - ERROR - proxy: http://36.106.105.60:8118 is avariable proxy
+2016-09-04 16:23:05 - DEBUG - proxy: http://58.48.18.247:8118 start to be filter
+2016-09-04 16:23:10 - ERROR - proxy: http://58.48.18.247:8118 is avariable proxy
+2016-09-04 16:23:10 - DEBUG - proxy: http://171.39.33.49:8123 start to be filter
+2016-09-04 16:23:15 - ERROR - proxy: http://171.39.33.49:8123 is avariable proxy
+2016-09-04 16:23:15 - DEBUG - proxy: http://119.29.65.202:8118 start to be filter
+2016-09-04 16:23:24 - ERROR - proxy: http://119.29.65.202:8118 is avariable proxy
+2016-09-04 16:23:24 - DEBUG - proxy: http://110.72.33.216:8123 start to be filter
+2016-09-04 16:23:24 - ERROR - proxy: http://110.72.33.216:8123 is avariable proxy
+2016-09-04 16:23:24 - DEBUG - proxy: http://110.72.34.171:8123 start to be filter
+2016-09-04 16:23:24 - ERROR - proxy: http://110.72.34.171:8123 is avariable proxy
+2016-09-04 16:23:24 - DEBUG - proxy: http://110.72.36.209:8123 start to be filter
+2016-09-04 16:23:29 - ERROR - proxy: http://110.72.36.209:8123 is avariable proxy
+2016-09-04 16:23:29 - DEBUG - proxy: http://183.135.250.92:8118 start to be filter
+2016-09-04 16:23:34 - ERROR - proxy: http://183.135.250.92:8118 is avariable proxy
+2016-09-04 16:23:34 - DEBUG - proxy: http://183.139.159.81:8080 start to be filter
+2016-09-04 16:23:34 - ERROR - proxy: http://183.139.159.81:8080 is avariable proxy
+2016-09-04 16:23:34 - DEBUG - proxy: http://171.35.33.119:8118 start to be filter
+2016-09-04 16:23:39 - ERROR - proxy: http://171.35.33.119:8118 is avariable proxy
+2016-09-04 16:23:39 - DEBUG - proxy: http://121.61.100.50:8118 start to be filter
+2016-09-04 16:23:44 - ERROR - proxy: http://121.61.100.50:8118 is avariable proxy
+2016-09-04 16:23:44 - DEBUG - proxy: http://114.96.210.20:808 start to be filter
+2016-09-04 16:23:45 - ERROR - proxy: http://114.96.210.20:808 is avariable proxy
+2016-09-04 16:23:45 - DEBUG - proxy: http://222.170.17.74:2226 start to be filter
+2016-09-04 16:23:47 - DEBUG - proxy: http://222.170.17.74:2226 is variable proxy
+2016-09-04 16:23:47 - DEBUG - proxy: http://114.226.3.99:8123 start to be filter
+2016-09-04 16:23:52 - ERROR - proxy: http://114.226.3.99:8123 is avariable proxy
+2016-09-04 16:23:52 - DEBUG - proxy: http://171.39.24.188:8123 start to be filter
+2016-09-04 16:23:57 - ERROR - proxy: http://171.39.24.188:8123 is avariable proxy
+2016-09-04 16:23:57 - DEBUG - proxy: http://39.1.46.98:8080 start to be filter
+2016-09-04 16:24:02 - ERROR - proxy: http://39.1.46.98:8080 is avariable proxy
+2016-09-04 16:24:02 - DEBUG - proxy: http://121.31.48.36:8123 start to be filter
+2016-09-04 16:24:03 - ERROR - proxy: http://121.31.48.36:8123 is avariable proxy
+2016-09-04 16:24:03 - DEBUG - proxy: http://171.39.89.143:8123 start to be filter
+2016-09-04 16:24:08 - ERROR - proxy: http://171.39.89.143:8123 is avariable proxy
+2016-09-04 16:24:08 - DEBUG - proxy: http://110.73.51.125:8123 start to be filter
+2016-09-04 16:24:13 - ERROR - proxy: http://110.73.51.125:8123 is avariable proxy
+2016-09-04 16:24:13 - DEBUG - proxy: http://118.165.15.87:8080 start to be filter
+2016-09-04 16:24:18 - ERROR - proxy: http://118.165.15.87:8080 is avariable proxy
+2016-09-04 16:24:18 - DEBUG - proxy: http://36.234.136.158:8080 start to be filter
+2016-09-04 16:24:23 - ERROR - proxy: http://36.234.136.158:8080 is avariable proxy
+2016-09-04 16:24:23 - DEBUG - proxy: http://222.215.16.139:8118 start to be filter
+2016-09-04 16:24:28 - ERROR - proxy: http://222.215.16.139:8118 is avariable proxy
+2016-09-04 16:24:28 - DEBUG - proxy: http://110.73.29.246:8123 start to be filter
+2016-09-04 16:24:33 - ERROR - proxy: http://110.73.29.246:8123 is avariable proxy
+2016-09-04 16:24:33 - DEBUG - proxy: http://123.95.175.155:8123 start to be filter
+2016-09-04 16:24:38 - ERROR - proxy: http://123.95.175.155:8123 is avariable proxy
+2016-09-04 16:24:38 - DEBUG - proxy: http://124.240.187.78:81 start to be filter
+2016-09-04 16:24:45 - ERROR - proxy: http://124.240.187.78:81 is avariable proxy
+2016-09-04 16:24:45 - DEBUG - proxy: http://115.152.211.109:8118 start to be filter
+2016-09-04 16:24:50 - ERROR - proxy: http://115.152.211.109:8118 is avariable proxy
+2016-09-04 16:24:50 - DEBUG - proxy: http://123.161.137.136:8118 start to be filter
+2016-09-04 16:24:50 - ERROR - proxy: http://123.161.137.136:8118 is avariable proxy
+2016-09-04 16:24:50 - DEBUG - proxy: http://118.165.15.115:8080 start to be filter
+2016-09-04 16:24:50 - ERROR - proxy: http://118.165.15.115:8080 is avariable proxy
+2016-09-04 16:24:50 - DEBUG - proxy: http://182.90.12.191:80 start to be filter
+2016-09-04 16:24:55 - ERROR - proxy: http://182.90.12.191:80 is avariable proxy
+2016-09-04 16:24:55 - DEBUG - proxy: http://118.165.24.183:8080 start to be filter
+2016-09-04 16:25:00 - ERROR - proxy: http://118.165.24.183:8080 is avariable proxy
+2016-09-04 16:25:00 - DEBUG - proxy: http://112.104.107.151:8998 start to be filter
+2016-09-04 16:25:00 - ERROR - proxy: http://112.104.107.151:8998 is avariable proxy
+2016-09-04 16:25:00 - DEBUG - proxy: http://182.88.30.120:8123 start to be filter
+2016-09-04 16:25:00 - ERROR - proxy: http://182.88.30.120:8123 is avariable proxy
+2016-09-04 16:25:00 - DEBUG - proxy: http://121.61.98.68:8118 start to be filter
+2016-09-04 16:25:05 - ERROR - proxy: http://121.61.98.68:8118 is avariable proxy
+2016-09-04 16:25:05 - DEBUG - proxy: http://110.72.32.99:8123 start to be filter
+2016-09-04 16:25:10 - ERROR - proxy: http://110.72.32.99:8123 is avariable proxy
+2016-09-04 16:25:10 - DEBUG - proxy: http://110.72.26.234:8123 start to be filter
+2016-09-04 16:25:10 - ERROR - proxy: http://110.72.26.234:8123 is avariable proxy
+2016-09-04 16:25:10 - DEBUG - proxy: http://110.72.27.194:8123 start to be filter
+2016-09-04 16:25:15 - ERROR - proxy: http://110.72.27.194:8123 is avariable proxy
+2016-09-04 16:25:15 - DEBUG - proxy: http://171.38.181.96:8123 start to be filter
+2016-09-04 16:25:20 - ERROR - proxy: http://171.38.181.96:8123 is avariable proxy
+2016-09-04 16:25:20 - DEBUG - proxy: http://171.38.76.158:8123 start to be filter
+2016-09-04 16:25:25 - ERROR - proxy: http://171.38.76.158:8123 is avariable proxy
+2016-09-04 16:25:25 - DEBUG - proxy: http://119.53.137.23:8118 start to be filter
+2016-09-04 16:25:30 - ERROR - proxy: http://119.53.137.23:8118 is avariable proxy
+2016-09-04 16:25:30 - DEBUG - proxy: http://171.39.65.162:8123 start to be filter
+2016-09-04 16:25:30 - ERROR - proxy: http://171.39.65.162:8123 is avariable proxy
+2016-09-04 16:25:30 - DEBUG - proxy: http://110.73.0.125:8123 start to be filter
+2016-09-04 16:25:35 - ERROR - proxy: http://110.73.0.125:8123 is avariable proxy
+2016-09-04 16:25:35 - DEBUG - proxy: http://171.38.211.78:8123 start to be filter
+2016-09-04 16:25:40 - ERROR - proxy: http://171.38.211.78:8123 is avariable proxy
+2016-09-04 16:25:40 - DEBUG - proxy: http://119.140.121.143:8118 start to be filter
+2016-09-04 16:25:45 - ERROR - proxy: http://119.140.121.143:8118 is avariable proxy
+2016-09-04 16:25:45 - DEBUG - proxy: http://123.57.190.51:7777 start to be filter
+2016-09-04 16:25:46 - ERROR - proxy: http://123.57.190.51:7777 is avariable proxy
+2016-09-04 16:25:46 - DEBUG - proxy: http://110.72.21.38:8123 start to be filter
+2016-09-04 16:25:46 - ERROR - proxy: http://110.72.21.38:8123 is avariable proxy
+2016-09-04 16:25:46 - DEBUG - proxy: http://123.190.99.154:80 start to be filter
+2016-09-04 16:25:51 - ERROR - proxy: http://123.190.99.154:80 is avariable proxy
+2016-09-04 16:25:51 - DEBUG - proxy: http://171.37.153.51:8123 start to be filter
+2016-09-04 16:25:56 - ERROR - proxy: http://171.37.153.51:8123 is avariable proxy
+2016-09-04 16:25:56 - DEBUG - proxy: http://182.88.14.143:8123 start to be filter
+2016-09-04 16:26:01 - ERROR - proxy: http://182.88.14.143:8123 is avariable proxy
+2016-09-04 16:26:01 - DEBUG - proxy: http://171.37.170.154:8123 start to be filter
+2016-09-04 16:26:06 - ERROR - proxy: http://171.37.170.154:8123 is avariable proxy
+2016-09-04 16:26:06 - DEBUG - proxy: http://182.88.42.52:8123 start to be filter
+2016-09-04 16:26:11 - ERROR - proxy: http://182.88.42.52:8123 is avariable proxy
+2016-09-04 16:26:11 - DEBUG - proxy: http://171.38.161.189:8123 start to be filter
+2016-09-04 16:26:16 - ERROR - proxy: http://171.38.161.189:8123 is avariable proxy
+2016-09-04 16:26:16 - DEBUG - proxy: http://171.38.77.69:8123 start to be filter
+2016-09-04 16:26:21 - ERROR - proxy: http://171.38.77.69:8123 is avariable proxy
+2016-09-04 16:26:21 - DEBUG - proxy: http://110.73.0.188:8123 start to be filter
+2016-09-04 16:26:26 - ERROR - proxy: http://110.73.0.188:8123 is avariable proxy
+2016-09-04 16:26:26 - DEBUG - proxy: http://183.129.178.14:8080 start to be filter
+2016-09-04 16:26:31 - ERROR - proxy: http://183.129.178.14:8080 is avariable proxy
+2016-09-04 16:26:31 - DEBUG - proxy: http://171.38.37.143:8123 start to be filter
+2016-09-04 16:26:31 - ERROR - proxy: http://171.38.37.143:8123 is avariable proxy
+2016-09-04 16:26:31 - DEBUG - proxy: http://220.175.1.162:8123 start to be filter
+2016-09-04 16:26:31 - ERROR - proxy: http://220.175.1.162:8123 is avariable proxy
+2016-09-04 16:26:31 - DEBUG - proxy: http://111.155.116.211:8123 start to be filter
+2016-09-04 16:26:36 - ERROR - proxy: http://111.155.116.211:8123 is avariable proxy
+2016-09-04 16:26:36 - DEBUG - proxy: http://182.117.162.19:80 start to be filter
+2016-09-04 16:26:41 - ERROR - proxy: http://182.117.162.19:80 is avariable proxy
+2016-09-04 16:26:41 - DEBUG - proxy: http://122.138.169.191:8118 start to be filter
+2016-09-04 16:26:46 - ERROR - proxy: http://122.138.169.191:8118 is avariable proxy
+2016-09-04 16:26:46 - DEBUG - proxy: http://182.88.81.96:8123 start to be filter
+2016-09-04 16:26:51 - ERROR - proxy: http://182.88.81.96:8123 is avariable proxy
+2016-09-04 16:26:51 - DEBUG - proxy: http://182.88.44.178:8123 start to be filter
+2016-09-04 16:26:51 - ERROR - proxy: http://182.88.44.178:8123 is avariable proxy
+2016-09-04 16:26:51 - DEBUG - proxy: http://182.88.81.37:8123 start to be filter
+2016-09-04 16:26:56 - ERROR - proxy: http://182.88.81.37:8123 is avariable proxy
+2016-09-04 16:26:56 - DEBUG - proxy: http://182.88.188.57:8123 start to be filter
+2016-09-04 16:26:56 - ERROR - proxy: http://182.88.188.57:8123 is avariable proxy
+2016-09-04 16:26:56 - DEBUG - proxy: http://182.88.228.82:8123 start to be filter
+2016-09-04 16:27:01 - ERROR - proxy: http://182.88.228.82:8123 is avariable proxy
+2016-09-04 16:27:01 - DEBUG - proxy: http://182.88.96.101:8123 start to be filter
+2016-09-04 16:27:06 - ERROR - proxy: http://182.88.96.101:8123 is avariable proxy
+2016-09-04 16:27:06 - DEBUG - proxy: http://110.73.50.152:8123 start to be filter
+2016-09-04 16:27:11 - ERROR - proxy: http://110.73.50.152:8123 is avariable proxy
+2016-09-04 16:27:11 - DEBUG - proxy: http://110.73.7.126:8123 start to be filter
+2016-09-04 16:28:11 - DEBUG - Collector Thread Start
+2016-09-04 16:28:11 - DEBUG - Listener Thread Start
+2016-09-04 16:28:12 - DEBUG - Filter Thread Start
+2016-09-04 16:28:12 - DEBUG - proxy: http://182.91.120.206:8118 start to be filter
+2016-09-04 16:28:12 - ERROR - proxy: http://182.91.120.206:8118 is avariable proxy
+2016-09-04 16:28:12 - DEBUG - proxy: http://1.25.201.12:80 start to be filter
+2016-09-04 16:28:17 - ERROR - proxy: http://1.25.201.12:80 is avariable proxy
+2016-09-04 16:28:17 - DEBUG - proxy: http://122.96.59.106:80 start to be filter
+2016-09-04 16:28:23 - ERROR - proxy: http://122.96.59.106:80 is avariable proxy
+2016-09-04 16:28:23 - DEBUG - proxy: http://36.7.172.18:82 start to be filter
+2016-09-04 16:28:28 - ERROR - proxy: http://36.7.172.18:82 is avariable proxy
+2016-09-04 16:28:28 - DEBUG - proxy: http://112.192.22.252:8118 start to be filter
+2016-09-04 16:28:34 - DEBUG - proxy: http://112.192.22.252:8118 is variable proxy
+2016-09-04 16:28:34 - DEBUG - proxy: http://120.25.105.45:81 start to be filter
+2016-09-04 16:28:37 - DEBUG - proxy: http://120.25.105.45:81 is variable proxy
+2016-09-04 16:28:37 - DEBUG - proxy: http://222.76.124.133:9000 start to be filter
+2016-09-04 16:28:42 - DEBUG - Collector Thread Stop
+2016-09-04 16:28:42 - ERROR - proxy: http://222.76.124.133:9000 is avariable proxy
+2016-09-04 16:28:42 - DEBUG - proxy: http://39.1.46.190:8080 start to be filter
+2016-09-04 16:28:43 - DEBUG - proxy: http://39.1.46.190:8080 is variable proxy
+2016-09-04 16:28:43 - DEBUG - proxy: http://118.200.71.231:8080 start to be filter
+2016-09-04 16:28:52 - ERROR - proxy: http://118.200.71.231:8080 is avariable proxy
+2016-09-04 16:28:52 - DEBUG - proxy: http://39.67.146.180:8118 start to be filter
+2016-09-04 16:28:55 - DEBUG - proxy: http://39.67.146.180:8118 is variable proxy
+2016-09-04 16:28:55 - DEBUG - proxy: http://175.21.228.12:8118 start to be filter
+2016-09-04 16:29:00 - ERROR - proxy: http://175.21.228.12:8118 is avariable proxy
+2016-09-04 16:29:00 - DEBUG - proxy: http://121.31.139.28:8123 start to be filter
+2016-09-04 16:29:05 - ERROR - proxy: http://121.31.139.28:8123 is avariable proxy
+2016-09-04 16:29:05 - DEBUG - proxy: http://171.38.210.241:8123 start to be filter
+2016-09-04 16:29:10 - ERROR - proxy: http://171.38.210.241:8123 is avariable proxy
+2016-09-04 16:29:10 - DEBUG - proxy: http://183.131.76.27:8888 start to be filter
+2016-09-04 16:29:15 - DEBUG - proxy: http://183.131.76.27:8888 is variable proxy
+2016-09-04 16:29:15 - DEBUG - proxy: http://218.57.79.136:8118 start to be filter
+2016-09-04 16:29:16 - DEBUG - proxy: http://218.57.79.136:8118 is variable proxy
+2016-09-04 16:29:16 - DEBUG - proxy: http://139.196.140.9:80 start to be filter
+2016-09-04 16:29:24 - ERROR - proxy: http://139.196.140.9:80 is avariable proxy
+2016-09-04 16:29:24 - DEBUG - proxy: http://180.103.131.65:808 start to be filter
+2016-09-04 16:29:26 - DEBUG - proxy: http://180.103.131.65:808 is variable proxy
+2016-09-04 16:29:26 - DEBUG - proxy: http://60.21.209.114:8080 start to be filter
+2016-09-04 16:29:26 - DEBUG - proxy: http://60.21.209.114:8080 is variable proxy
+2016-09-04 16:29:26 - DEBUG - proxy: http://218.244.149.184:8888 start to be filter
+2016-09-04 16:29:34 - ERROR - proxy: http://218.244.149.184:8888 is avariable proxy
+2016-09-04 16:29:34 - DEBUG - proxy: http://118.180.15.152:8102 start to be filter
+2016-09-04 16:29:36 - DEBUG - proxy: http://118.180.15.152:8102 is variable proxy
+2016-09-04 16:29:36 - DEBUG - proxy: http://139.196.108.68:80 start to be filter
+2016-09-04 16:29:36 - DEBUG - proxy: http://139.196.108.68:80 is variable proxy
+2016-09-04 16:29:36 - DEBUG - proxy: http://122.96.59.104:80 start to be filter
+2016-09-04 16:29:41 - ERROR - proxy: http://122.96.59.104:80 is avariable proxy
+2016-09-04 16:29:41 - DEBUG - proxy: http://115.160.137.178:8088 start to be filter
+2016-09-04 16:29:41 - ERROR - proxy: http://115.160.137.178:8088 is avariable proxy
+2016-09-04 16:29:41 - DEBUG - proxy: http://116.30.160.210:8118 start to be filter
+2016-09-04 16:29:48 - ERROR - proxy: http://116.30.160.210:8118 is avariable proxy
+2016-09-04 16:29:48 - DEBUG - proxy: http://106.119.96.117:8118 start to be filter
+2016-09-04 16:29:48 - ERROR - proxy: http://106.119.96.117:8118 is avariable proxy
+2016-09-04 16:29:48 - DEBUG - proxy: http://118.124.51.94:808 start to be filter
+2016-09-04 16:29:53 - ERROR - proxy: http://118.124.51.94:808 is avariable proxy
+2016-09-04 16:29:53 - DEBUG - proxy: http://122.228.179.178:80 start to be filter
+2016-09-04 16:29:58 - ERROR - proxy: http://122.228.179.178:80 is avariable proxy
+2016-09-04 16:29:58 - DEBUG - proxy: http://113.138.42.21:8118 start to be filter
+2016-09-04 16:29:59 - ERROR - proxy: http://113.138.42.21:8118 is avariable proxy
+2016-09-04 16:29:59 - DEBUG - proxy: http://119.29.104.69:8118 start to be filter
+2016-09-04 16:29:59 - ERROR - proxy: http://119.29.104.69:8118 is avariable proxy
+2016-09-04 16:29:59 - DEBUG - proxy: http://125.42.247.215:8118 start to be filter
+2016-09-04 16:30:01 - DEBUG - proxy: http://125.42.247.215:8118 is variable proxy
+2016-09-04 16:30:01 - DEBUG - proxy: http://119.29.82.158:8118 start to be filter
+2016-09-04 16:30:01 - ERROR - proxy: http://119.29.82.158:8118 is avariable proxy
+2016-09-04 16:30:01 - DEBUG - proxy: http://119.137.86.240:8118 start to be filter
+2016-09-04 16:30:01 - ERROR - proxy: http://119.137.86.240:8118 is avariable proxy
+2016-09-04 16:30:01 - DEBUG - proxy: http://39.1.46.150:8080 start to be filter
+2016-09-04 16:30:07 - ERROR - proxy: http://39.1.46.150:8080 is avariable proxy
+2016-09-04 16:30:07 - DEBUG - proxy: http://111.155.116.237:8123 start to be filter
+2016-09-04 16:30:12 - ERROR - proxy: http://111.155.116.237:8123 is avariable proxy
+2016-09-04 16:30:12 - DEBUG - proxy: http://61.52.224.181:8118 start to be filter
+2016-09-04 16:30:17 - ERROR - proxy: http://61.52.224.181:8118 is avariable proxy
+2016-09-04 16:30:17 - DEBUG - proxy: http://119.119.10.95:8118 start to be filter
+2016-09-04 16:30:18 - DEBUG - proxy: http://119.119.10.95:8118 is variable proxy
+2016-09-04 16:30:18 - DEBUG - proxy: http://119.188.94.145:80 start to be filter
+2016-09-04 16:30:23 - ERROR - proxy: http://119.188.94.145:80 is avariable proxy
+2016-09-04 16:30:23 - DEBUG - proxy: http://182.88.81.75:8123 start to be filter
+2016-09-04 16:30:28 - ERROR - proxy: http://182.88.81.75:8123 is avariable proxy
+2016-09-04 16:30:28 - DEBUG - proxy: http://110.72.31.213:8123 start to be filter
+2016-09-04 16:30:33 - ERROR - proxy: http://110.72.31.213:8123 is avariable proxy
+2016-09-04 16:30:33 - DEBUG - proxy: http://121.40.108.76:80 start to be filter
+2016-09-04 16:30:38 - ERROR - proxy: http://121.40.108.76:80 is avariable proxy
+2016-09-04 16:30:38 - DEBUG - proxy: http://125.124.132.76:3128 start to be filter
+2016-09-04 16:45:29 - DEBUG - Collector Thread Start
+2016-09-04 16:45:29 - DEBUG - Listener Thread Start
+2016-09-04 16:45:31 - DEBUG - Filter Thread Start
+2016-09-04 16:45:31 - DEBUG - proxy: http://106.119.96.117:8118 start to be filter
+2016-09-04 16:45:33 - DEBUG - proxy: http://106.119.96.117:8118 is variable proxy
+2016-09-04 16:45:33 - DEBUG - proxy: http://139.196.140.9:80 start to be filter
+2016-09-04 16:45:38 - ERROR - proxy: http://139.196.140.9:80 is avariable proxy
+2016-09-04 16:45:38 - DEBUG - proxy: http://114.232.225.51:8118 start to be filter
+2016-09-04 16:45:43 - ERROR - proxy: http://114.232.225.51:8118 is avariable proxy
+2016-09-04 16:45:43 - DEBUG - proxy: http://218.57.79.136:8118 start to be filter
+2016-09-04 16:45:47 - ERROR - proxy: http://218.57.79.136:8118 is avariable proxy
+2016-09-04 16:45:47 - DEBUG - proxy: http://222.76.124.133:9000 start to be filter
+2016-09-04 16:45:53 - DEBUG - proxy: http://222.76.124.133:9000 is variable proxy
+2016-09-04 16:45:53 - DEBUG - proxy: http://120.25.105.45:81 start to be filter
+2016-09-04 16:46:00 - DEBUG - Collector Thread Start
+2016-09-04 16:46:00 - DEBUG - Listener Thread Start
+2016-09-04 16:46:00 - DEBUG - Filter Thread Start
+2016-09-04 16:46:00 - DEBUG - proxy: http://119.188.94.145:80 start to be filter
+2016-09-04 16:46:02 - ERROR - proxy: http://119.188.94.145:80 is avariable proxy
+2016-09-04 16:46:02 - DEBUG - proxy: http://119.119.10.95:8118 start to be filter
+2016-09-04 16:46:07 - ERROR - proxy: http://119.119.10.95:8118 is avariable proxy
+2016-09-04 16:46:07 - DEBUG - proxy: http://222.76.124.133:9000 start to be filter
+2016-09-04 16:46:14 - ERROR - proxy: http://222.76.124.133:9000 is avariable proxy
+2016-09-04 16:46:14 - DEBUG - proxy: http://125.42.247.215:8118 start to be filter
+2016-09-04 16:46:19 - ERROR - proxy: http://125.42.247.215:8118 is avariable proxy
+2016-09-04 16:46:19 - DEBUG - proxy: http://115.160.137.178:8088 start to be filter
+2016-09-04 16:46:21 - DEBUG - proxy: http://115.160.137.178:8088 is variable proxy
+2016-09-04 16:46:21 - DEBUG - proxy: http://122.228.179.178:80 start to be filter
+2016-09-04 16:46:28 - ERROR - proxy: http://122.228.179.178:80 is avariable proxy
+2016-09-04 16:46:28 - DEBUG - proxy: http://106.119.96.117:8118 start to be filter
+2016-09-04 16:46:30 - DEBUG - Collector Thread Stop
+2016-09-04 16:46:30 - DEBUG - Listener Thread Stop
+2016-09-04 16:46:31 - DEBUG - proxy: http://106.119.96.117:8118 is variable proxy
+2016-09-04 16:46:31 - DEBUG - Filter Thread Stop
+2016-09-04 16:46:43 - DEBUG - Collector Thread Start
+2016-09-04 16:46:43 - DEBUG - Listener Thread Start
+2016-09-04 16:46:43 - DEBUG - Filter Thread Start
+2016-09-04 16:46:43 - DEBUG - proxy: http://119.188.94.145:80 start to be filter
+2016-09-04 16:46:48 - ERROR - proxy: http://119.188.94.145:80 is avariable proxy
+2016-09-04 16:46:48 - DEBUG - proxy: http://119.119.10.95:8118 start to be filter
+2016-09-04 16:46:55 - DEBUG - proxy: http://119.119.10.95:8118 is variable proxy
+2016-09-04 16:46:55 - DEBUG - proxy: http://222.76.124.133:9000 start to be filter
+2016-09-04 16:47:01 - ERROR - proxy: http://222.76.124.133:9000 is avariable proxy
+2016-09-04 16:47:01 - DEBUG - proxy: http://125.42.247.215:8118 start to be filter
+2016-09-04 16:47:03 - ERROR - proxy: http://125.42.247.215:8118 is avariable proxy
+2016-09-04 16:47:03 - DEBUG - proxy: http://115.160.137.178:8088 start to be filter
+2016-09-04 16:47:03 - DEBUG - Collector Thread Stop
+2016-09-04 16:47:04 - DEBUG - proxy: http://115.160.137.178:8088 is variable proxy
+2016-09-04 16:47:04 - DEBUG - proxy: http://122.228.179.178:80 start to be filter
+2016-09-04 16:47:10 - ERROR - proxy: http://122.228.179.178:80 is avariable proxy
+2016-09-04 16:47:10 - DEBUG - proxy: http://106.119.96.117:8118 start to be filter
+2016-09-04 16:47:11 - DEBUG - Listener Thread Stop
+2016-09-04 16:47:15 - DEBUG - proxy: http://106.119.96.117:8118 is variable proxy
+2016-09-04 16:47:15 - DEBUG - Filter Thread Stop
+2016-09-04 16:50:50 - DEBUG - Collector Thread Start
+2016-09-04 16:50:50 - DEBUG - Listener Thread Start
+2016-09-04 16:50:53 - DEBUG - Filter Thread Start
+2016-09-04 16:50:53 - DEBUG - proxy: http://171.38.180.198:8123 start to be filter
+2016-09-04 16:50:58 - ERROR - proxy: http://171.38.180.198:8123 is avariable proxy
+2016-09-04 16:50:58 - DEBUG - proxy: http://118.180.15.152:8102 start to be filter
+2016-09-04 16:51:00 - DEBUG - proxy: http://118.180.15.152:8102 is variable proxy
+2016-09-04 16:51:00 - DEBUG - proxy: http://139.196.108.68:80 start to be filter
+2016-09-04 16:51:00 - DEBUG - proxy: http://139.196.108.68:80 is variable proxy
+2016-09-04 16:51:00 - DEBUG - proxy: http://218.244.149.184:8888 start to be filter
+2016-09-04 16:51:07 - DEBUG - proxy: http://218.244.149.184:8888 is variable proxy
+2016-09-04 16:51:07 - DEBUG - proxy: http://60.21.209.114:8080 start to be filter
+2016-09-04 16:51:08 - DEBUG - proxy: http://60.21.209.114:8080 is variable proxy
+2016-09-04 16:51:08 - DEBUG - proxy: http://1.25.201.12:80 start to be filter
+2016-09-04 16:51:08 - ERROR - proxy: http://1.25.201.12:80 is avariable proxy
+2016-09-04 16:51:08 - DEBUG - proxy: http://122.96.59.106:80 start to be filter
+2016-09-04 16:51:13 - DEBUG - proxy: http://122.96.59.106:80 is variable proxy
+2016-09-04 16:51:13 - DEBUG - proxy: http://119.188.94.145:80 start to be filter
+2016-09-04 16:51:13 - ERROR - proxy: http://119.188.94.145:80 is avariable proxy
+2016-09-04 16:51:13 - DEBUG - proxy: http://119.119.10.95:8118 start to be filter
+2016-09-04 16:51:15 - DEBUG - proxy: http://119.119.10.95:8118 is variable proxy
+2016-09-04 16:51:15 - DEBUG - proxy: http://222.76.124.133:9000 start to be filter
+2016-09-04 16:51:18 - DEBUG - proxy: http://222.76.124.133:9000 is variable proxy
+2016-09-04 16:51:18 - DEBUG - proxy: http://125.42.247.215:8118 start to be filter
+2016-09-04 16:51:21 - DEBUG - proxy: http://125.42.247.215:8118 is variable proxy
+2016-09-04 16:51:21 - DEBUG - proxy: http://115.160.137.178:8088 start to be filter
+2016-09-04 16:51:27 - ERROR - proxy: http://115.160.137.178:8088 is avariable proxy
+2016-09-04 16:51:27 - DEBUG - proxy: http://122.228.179.178:80 start to be filter
+2016-09-04 16:51:32 - ERROR - proxy: http://122.228.179.178:80 is avariable proxy
+2016-09-04 16:51:32 - DEBUG - proxy: http://106.119.96.117:8118 start to be filter
+2016-09-04 16:51:32 - ERROR - proxy: http://106.119.96.117:8118 is avariable proxy
+2016-09-04 16:51:32 - DEBUG - proxy: http://139.196.140.9:80 start to be filter
+2016-09-04 16:51:38 - ERROR - proxy: http://139.196.140.9:80 is avariable proxy
+2016-09-04 16:51:38 - DEBUG - proxy: http://114.232.225.51:8118 start to be filter
+2016-09-04 16:51:41 - ERROR - proxy: http://114.232.225.51:8118 is avariable proxy
+2016-09-04 16:51:41 - DEBUG - proxy: http://218.57.79.136:8118 start to be filter
+2016-09-04 16:51:43 - DEBUG - Collector Thread Stop
+2016-09-04 16:51:43 - DEBUG - proxy: http://218.57.79.136:8118 is variable proxy
+2016-09-04 16:51:43 - DEBUG - proxy: http://120.25.105.45:81 start to be filter
+2016-09-04 16:51:44 - DEBUG - Listener Thread Stop
+2016-09-04 16:51:45 - DEBUG - proxy: http://120.25.105.45:81 is variable proxy
+2016-09-04 16:51:45 - DEBUG - Filter Thread Stop
+2016-09-04 16:51:49 - DEBUG - Collector Thread Start
+2016-09-04 16:51:49 - DEBUG - Listener Thread Start
+2016-09-04 16:51:50 - DEBUG - Filter Thread Start
+2016-09-04 16:51:50 - DEBUG - proxy: http://171.38.180.198:8123 start to be filter
+2016-09-04 16:51:55 - ERROR - proxy: http://171.38.180.198:8123 is avariable proxy
+2016-09-04 16:51:55 - DEBUG - proxy: http://118.180.15.152:8102 start to be filter
+2016-09-04 16:51:55 - DEBUG - proxy: http://118.180.15.152:8102 is variable proxy
+2016-09-04 16:51:55 - DEBUG - proxy: http://139.196.108.68:80 start to be filter
+2016-09-04 16:51:55 - DEBUG - proxy: http://139.196.108.68:80 is variable proxy
+2016-09-04 16:51:55 - DEBUG - proxy: http://218.244.149.184:8888 start to be filter
+2016-09-04 16:52:00 - DEBUG - proxy: http://218.244.149.184:8888 is variable proxy
+2016-09-04 16:52:00 - DEBUG - proxy: http://60.21.209.114:8080 start to be filter
+2016-09-04 16:52:04 - DEBUG - proxy: http://60.21.209.114:8080 is variable proxy
+2016-09-04 16:52:04 - DEBUG - proxy: http://1.25.201.12:80 start to be filter
+2016-09-04 16:52:09 - ERROR - proxy: http://1.25.201.12:80 is avariable proxy
+2016-09-04 16:52:09 - DEBUG - proxy: http://122.96.59.106:80 start to be filter
+2016-09-04 16:52:09 - DEBUG - proxy: http://122.96.59.106:80 is variable proxy
+2016-09-04 16:52:09 - DEBUG - proxy: http://119.188.94.145:80 start to be filter
+2016-09-04 16:52:10 - DEBUG - Collector Thread Stop
+2016-09-04 16:52:10 - DEBUG - proxy: http://119.188.94.145:80 is variable proxy
+2016-09-04 16:52:10 - DEBUG - proxy: http://119.119.10.95:8118 start to be filter
+2016-09-04 16:52:13 - DEBUG - proxy: http://119.119.10.95:8118 is variable proxy
+2016-09-04 16:52:13 - DEBUG - proxy: http://222.76.124.133:9000 start to be filter
+2016-09-04 16:52:17 - DEBUG - Listener Thread Stop
+2016-09-04 16:52:18 - ERROR - proxy: http://222.76.124.133:9000 is avariable proxy
+2016-09-04 16:52:18 - DEBUG - Filter Thread Stop
+2016-09-04 16:55:15 - DEBUG - Collector Thread Start
+2016-09-04 16:55:15 - DEBUG - Listener Thread Start
+2016-09-04 16:55:17 - DEBUG - Filter Thread Start
+2016-09-04 16:55:17 - DEBUG - proxy: http://122.96.59.104:80 start to be filter
+2016-09-04 16:55:20 - DEBUG - proxy: http://122.96.59.104:80 is variable proxy
+2016-09-04 16:55:20 - DEBUG - proxy: http://182.91.120.206:8118 start to be filter
+2016-09-04 16:55:25 - ERROR - proxy: http://182.91.120.206:8118 is avariable proxy
+2016-09-04 16:55:25 - DEBUG - proxy: http://219.79.240.236:8090 start to be filter
+2016-09-04 16:55:30 - ERROR - proxy: http://219.79.240.236:8090 is avariable proxy
+2016-09-04 16:55:30 - DEBUG - proxy: http://119.29.82.158:8118 start to be filter
+2016-09-04 16:55:30 - ERROR - proxy: http://119.29.82.158:8118 is avariable proxy
+2016-09-04 16:55:30 - DEBUG - proxy: http://171.38.180.198:8123 start to be filter
+2016-09-04 16:55:35 - ERROR - proxy: http://171.38.180.198:8123 is avariable proxy
+2016-09-04 16:55:35 - DEBUG - proxy: http://118.180.15.152:8102 start to be filter
+2016-09-04 16:55:35 - DEBUG - proxy: http://118.180.15.152:8102 is variable proxy
+2016-09-04 16:55:35 - DEBUG - proxy: http://139.196.108.68:80 start to be filter
+2016-09-04 16:55:35 - DEBUG - proxy: http://139.196.108.68:80 is variable proxy
+2016-09-04 16:55:35 - DEBUG - proxy: http://218.244.149.184:8888 start to be filter
+2016-09-04 16:55:37 - DEBUG - Collector Thread Stop
+2016-09-04 16:55:38 - DEBUG - Listener Thread Stop
+2016-09-04 16:55:41 - ERROR - proxy: http://218.244.149.184:8888 is avariable proxy
+2016-09-04 16:55:41 - DEBUG - Filter Thread Stop
+2016-09-04 17:18:42 - DEBUG - Collector Thread Start
+2016-09-04 17:18:42 - DEBUG - Listener Thread Start
+2016-09-04 17:18:43 - DEBUG - Filter Thread Start
+2016-09-04 17:18:43 - DEBUG - proxy: http://122.96.59.106:80 start to be filter
+2016-09-04 17:18:44 - DEBUG - proxy: http://122.96.59.106:80 is variable proxy
+2016-09-04 17:18:44 - DEBUG - proxy: http://113.138.42.21:8118 start to be filter
+2016-09-04 17:18:44 - ERROR - proxy: http://113.138.42.21:8118 is avariable proxy
+2016-09-04 17:18:44 - DEBUG - proxy: http://171.208.40.71:8118 start to be filter
+2016-09-04 17:18:44 - ERROR - proxy: http://171.208.40.71:8118 is avariable proxy
+2016-09-04 17:18:44 - DEBUG - proxy: http://60.21.209.114:8080 start to be filter
+2016-09-04 17:18:48 - DEBUG - proxy: http://60.21.209.114:8080 is variable proxy
+2016-09-04 17:18:48 - DEBUG - proxy: http://118.180.15.152:8102 start to be filter
+2016-09-04 17:18:49 - DEBUG - proxy: http://118.180.15.152:8102 is variable proxy
+2016-09-04 17:18:49 - DEBUG - proxy: http://139.196.108.68:80 start to be filter
+2016-09-04 17:18:49 - DEBUG - proxy: http://139.196.108.68:80 is variable proxy
+2016-09-04 17:18:49 - DEBUG - proxy: http://119.137.86.240:8118 start to be filter
+2016-09-04 17:18:49 - ERROR - proxy: http://119.137.86.240:8118 is avariable proxy
+2016-09-04 17:18:49 - DEBUG - proxy: http://39.67.146.180:8118 start to be filter
+2016-09-04 17:18:54 - ERROR - proxy: http://39.67.146.180:8118 is avariable proxy
+2016-09-04 17:18:54 - DEBUG - proxy: http://182.91.120.206:8118 start to be filter
+2016-09-04 17:18:57 - DEBUG - proxy: http://182.91.120.206:8118 is variable proxy
+2016-09-04 17:18:57 - DEBUG - proxy: http://106.119.96.117:8118 start to be filter
+2016-09-04 17:19:04 - ERROR - proxy: http://106.119.96.117:8118 is avariable proxy
+2016-09-04 17:19:04 - DEBUG - proxy: http://27.153.232.18:8118 start to be filter
+2016-09-04 17:19:09 - ERROR - proxy: http://27.153.232.18:8118 is avariable proxy
+2016-09-04 17:19:09 - DEBUG - proxy: http://122.96.59.104:80 start to be filter
+2016-09-04 17:19:09 - DEBUG - proxy: http://122.96.59.104:80 is variable proxy
+2016-09-04 17:19:09 - DEBUG - proxy: http://218.244.149.184:8888 start to be filter
+2016-09-04 17:19:13 - DEBUG - proxy: http://218.244.149.184:8888 is variable proxy
+2016-09-04 17:19:13 - DEBUG - proxy: http://1.25.201.12:80 start to be filter
+2016-09-04 17:19:18 - ERROR - proxy: http://1.25.201.12:80 is avariable proxy
+2016-09-04 17:19:18 - DEBUG - proxy: http://222.76.124.133:9000 start to be filter
+2016-09-04 17:19:25 - ERROR - proxy: http://222.76.124.133:9000 is avariable proxy
+2016-09-04 17:19:25 - DEBUG - proxy: http://115.160.137.178:8088 start to be filter
+2016-09-04 17:19:27 - DEBUG - proxy: http://115.160.137.178:8088 is variable proxy
+2016-09-04 17:19:27 - DEBUG - proxy: http://122.228.179.178:80 start to be filter
+2016-09-04 17:19:35 - DEBUG - proxy: http://122.228.179.178:80 is variable proxy
+2016-09-04 17:19:35 - DEBUG - proxy: http://39.1.46.121:8080 start to be filter
+2016-09-04 17:19:40 - ERROR - proxy: http://39.1.46.121:8080 is avariable proxy
+2016-09-04 17:19:40 - DEBUG - proxy: http://42.51.11.160:808 start to be filter
+2016-09-04 17:19:43 - DEBUG - Collector Thread Stop
+2016-09-04 17:19:44 - DEBUG - Listener Thread Stop
+2016-09-04 17:19:45 - ERROR - proxy: http://42.51.11.160:808 is avariable proxy
+2016-09-04 17:19:45 - DEBUG - Filter Thread Stop
+2016-09-04 17:25:44 - DEBUG - Collector Thread Start
+2016-09-04 17:25:44 - DEBUG - Listener Thread Start
+2016-09-04 17:25:48 - DEBUG - Filter Thread Start
+2016-09-04 17:25:48 - DEBUG - proxy: http://218.57.79.136:8118 start to be filter
+2016-09-04 17:25:51 - ERROR - proxy: http://218.57.79.136:8118 is avariable proxy
+2016-09-04 17:25:51 - DEBUG - proxy: http://119.119.10.95:8118 start to be filter
+2016-09-04 17:25:51 - ERROR - proxy: http://119.119.10.95:8118 is avariable proxy
+2016-09-04 17:25:51 - DEBUG - proxy: http://120.25.105.45:81 start to be filter
+2016-09-04 17:25:53 - DEBUG - proxy: http://120.25.105.45:81 is variable proxy
+2016-09-04 17:25:53 - DEBUG - proxy: http://112.192.22.252:8118 start to be filter
+2016-09-04 17:25:57 - DEBUG - proxy: http://112.192.22.252:8118 is variable proxy
+2016-09-04 17:25:57 - DEBUG - proxy: http://36.7.172.18:82 start to be filter
+2016-09-04 17:25:57 - DEBUG - proxy: http://36.7.172.18:82 is variable proxy
+2016-09-04 17:25:57 - DEBUG - proxy: http://42.51.11.160:808 start to be filter
+2016-09-04 17:26:03 - DEBUG - proxy: http://42.51.11.160:808 is variable proxy
+2016-09-04 17:26:03 - DEBUG - proxy: http://115.160.137.178:8088 start to be filter
+2016-09-04 17:26:05 - DEBUG - proxy: http://115.160.137.178:8088 is variable proxy
+2016-09-04 17:26:05 - DEBUG - proxy: http://222.76.124.133:9000 start to be filter
+2016-09-04 17:26:08 - DEBUG - Collector Thread Stop
+2016-09-04 17:26:09 - DEBUG - Listener Thread Stop
+2016-09-04 17:26:10 - ERROR - proxy: http://222.76.124.133:9000 is avariable proxy
+2016-09-04 17:26:10 - DEBUG - Filter Thread Stop
+2016-09-04 17:33:10 - DEBUG - Collector Thread Start
+2016-09-04 17:33:10 - DEBUG - Listener Thread Start
+2016-09-04 17:33:11 - DEBUG - Filter Thread Start
+2016-09-04 17:33:11 - DEBUG - proxy: http://175.21.228.12:8118 start to be filter
+2016-09-04 17:33:16 - ERROR - proxy: http://175.21.228.12:8118 is avariable proxy
+2016-09-04 17:33:16 - DEBUG - proxy: http://180.103.131.65:808 start to be filter
+2016-09-04 17:33:17 - DEBUG - proxy: http://180.103.131.65:808 is variable proxy
+2016-09-04 17:33:17 - DEBUG - proxy: http://183.131.76.27:8888 start to be filter
+2016-09-04 17:33:20 - DEBUG - proxy: http://183.131.76.27:8888 is variable proxy
+2016-09-04 17:33:20 - DEBUG - proxy: http://122.228.179.178:80 start to be filter
+2016-09-04 17:33:24 - DEBUG - proxy: http://122.228.179.178:80 is variable proxy
+2016-09-04 17:33:24 - DEBUG - proxy: http://1.25.201.12:80 start to be filter
+2016-09-04 17:33:24 - ERROR - proxy: http://1.25.201.12:80 is avariable proxy
+2016-09-04 17:33:24 - DEBUG - proxy: http://218.244.149.184:8888 start to be filter
+2016-09-04 17:33:28 - DEBUG - proxy: http://218.244.149.184:8888 is variable proxy
+2016-09-04 17:33:28 - DEBUG - proxy: http://118.180.15.152:8102 start to be filter
+2016-09-04 17:33:29 - DEBUG - proxy: http://118.180.15.152:8102 is variable proxy
+2016-09-04 17:33:29 - DEBUG - proxy: http://139.196.108.68:80 start to be filter
+2016-09-04 17:33:29 - DEBUG - proxy: http://139.196.108.68:80 is variable proxy
+2016-09-04 17:33:29 - DEBUG - proxy: http://122.96.59.106:80 start to be filter
+2016-09-04 17:33:35 - ERROR - proxy: http://122.96.59.106:80 is avariable proxy
+2016-09-04 17:33:35 - DEBUG - proxy: http://115.160.137.178:8088 start to be filter
+2016-09-04 17:33:37 - DEBUG - proxy: http://115.160.137.178:8088 is variable proxy
+2016-09-04 17:33:37 - DEBUG - proxy: http://112.192.22.252:8118 start to be filter
+2016-09-04 17:33:41 - DEBUG - Collector Thread Stop
+2016-09-04 17:33:42 - DEBUG - Listener Thread Stop
+2016-09-04 17:33:46 - ERROR - proxy: http://112.192.22.252:8118 is avariable proxy
+2016-09-04 17:33:46 - DEBUG - Filter Thread Stop
